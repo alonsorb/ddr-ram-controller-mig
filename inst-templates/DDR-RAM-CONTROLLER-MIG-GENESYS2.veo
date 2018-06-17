@@ -2,7 +2,7 @@
 
 // The following must be inserted into your Verilog file for this core to be instantiated. Change the instance name and port connections (in parentheses) to your own signal names.
 
-ddr_ram_control_mig #(
+ddr_ram_controller_mig #(
     .BOARD("GENESYS_2")) your_inst_name(
     // user interface signals
     .ui_clk             (ui_clk),
