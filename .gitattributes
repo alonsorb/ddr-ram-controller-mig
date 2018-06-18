@@ -1,4 +1,2 @@
-inst-templates/* linguist-vendored
-tests-Genesys2/* linguist-vendored
-ucf/* linguist-vendored
-*.sv linguist-language=Verilog
+* linguist-vendored
+*.sv linguist-vendored=false
